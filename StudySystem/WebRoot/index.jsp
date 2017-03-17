@@ -22,11 +22,16 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   
   <body>
     This is my JSP page. 
+<<<<<<< HEAD
     hahahahah
     12345678
     cwy
     123
     难道是没进对位置？123456
     <br>
+=======
+	  我尝试做了一些更改！	
+  <br>
+>>>>>>> origin/cwy
   </body>
 </html>
